@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    /*color: #434455;
+    color: var(--slate);
     background-color: #FFFFFF;*/
 }
 
@@ -50,7 +50,6 @@ text-decoration: none;
 
 .main-board-title {
     color: var(--white);
-    text-align: center;
     /* Header 1 */
     font-family: Roboto;
     font-size: 56px;
@@ -98,7 +97,6 @@ text-decoration: none;
 
 .section-imeges-title {
     color: var(--navyblue);
-    text-align: center;
     /* Header 2 */
     font-family: Roboto;
     font-size: 36px;
@@ -111,7 +109,6 @@ text-decoration: none;
 
 .section-imeges-title-personnel {
     color: var(--navyblue);
-    text-align: center;
     /* Header 2 */
     font-family: Roboto;
     font-size: 36px;
@@ -124,7 +121,6 @@ text-decoration: none;
 
 .section-title-personnel-text {
     color: var(--navyblue);
-    text-align: center;
     /* Header 3 */
     font-family: Roboto;
     font-size: 20px;
@@ -136,7 +132,6 @@ text-decoration: none;
 
 .section-paragraph-personnel-text {
     color: var(--slate);
-    text-align: center;
     /* Body */
     font-family: Roboto;
     font-size: 16px;
