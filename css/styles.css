@@ -170,10 +170,8 @@ body {
 }
 
 /*------------------------------portfolio-------------------------------*/
-.title-button-list {
-    list-style: none;
-} 
 
+/*------------------------------Header-------------------------------*/
 .logo-web {
     color: var(--iris);
     font-size: 18px;
@@ -184,10 +182,6 @@ body {
     text-transform: uppercase;
     text-decoration-line: none;
     font-family: "Raleway", sans-serif;
-}
-
-.logo-web:hover {
-    color: #404bbf;
 }
 
 .logo-part {
@@ -206,16 +200,21 @@ body {
     letter-spacing: 0.02em;
 }
 
+.title-list-link:hover {
+    color: #404bbf;
+}
+
 .title-list-link {
     text-decoration: none;
     color: var(--navyblue);
 }
 
 .title-adress-list {
+    font-style: normal;
 }
 
 .title-contacts {
-    color: var(--navyblue);
+    color: var(--slate);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -224,6 +223,11 @@ body {
     letter-spacing: 0.02em;
     text-decoration: none;
 }
+
+/*------------------------------main-------------------------------*/
+.title-button-list {
+    list-style: none;
+} 
 
 .title-button-menu {
     color: var(--iris);
@@ -334,5 +338,5 @@ body {
 }
 
 .footer-logo-part {
-color: var(--iris);
+    color: var(--iris);
 }
