@@ -10,7 +10,7 @@ body {
     --cloud: #F4F4FD;
     --cornflower: #E7E9FC;
     --slate: #434455;
-    --cloud: #F4F4FD;
+    --white: #FFF;
 }
 
 .list {
@@ -21,6 +21,162 @@ body {
 text-decoration: none;
 }
 
+/*------------------------------html-------------------------------*/
+.title-list-link {
+    color: var(--navyblue);
+    /* Body Medium */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02em;
+}
+
+.title-contacts {
+    color: var(--slate);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02px;
+}
+
+.main-board {
+    background: var(--navyblue);
+}
+
+.main-board-title {
+    color: var(--white);
+    text-align: center;
+    /* Header 1 */
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07; /* 107.143% */
+    letter-spacing: 0.02em;
+}
+
+.main-board-button {
+    border-radius: 4px;
+    background: var(--iris);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: var(--white);
+    /* Button Text */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.04em;
+}
+
+.section-preview-text {
+    color: var(--navyblue);
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2; /* 120% */
+    letter-spacing: 0.2em;
+}
+
+.section-preview-paragraph {
+    color: var(--slate);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02em;
+}
+
+.section-imeges-title {
+    color: var(--navyblue);
+    text-align: center;
+    /* Header 2 */
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11; /* 111.111% */
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.section-imeges-title-personnel {
+    color: var(--navyblue);
+    text-align: center;
+    /* Header 2 */
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11; /* 111.111% */
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.section-title-personnel-text {
+    color: var(--navyblue);
+    text-align: center;
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2; /* 120% */
+    letter-spacing: 0.02em;
+}
+
+.section-paragraph-personnel-text {
+    color: var(--slate);
+    text-align: center;
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02em;
+}
+
+.footer-logotype {
+    color: var(--cloud);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1.17; /* 116.667% */
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.footer-logotype-part {
+    color: var(--iris);
+}
+
+.footer-down-desidn {
+    background: var(--navyblue);
+}
+
+.footer-down-paragraph {
+    color: var(--cloud);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.02em;
+}
+
+/*------------------------------portfolio-------------------------------*/
 .title-button-list {
     list-style: none;
 } 
@@ -57,8 +213,7 @@ text-decoration: none;
     color: var(--navyblue);
 }
 
-.title-adress-list> li {
-    list-style-type: none;
+.title-adress-list {
 }
 
 .title-contacts {
@@ -87,7 +242,6 @@ text-decoration: none;
 }
 
 .title-images-menu {
-    list-style-type: none;
 }
 
 .title-images-menu-title {
@@ -111,7 +265,6 @@ text-decoration: none;
 }
 
 .body-images-menu {
-    list-style-type: none;
 }
 
 .body-images-menu-title {
@@ -135,7 +288,6 @@ text-decoration: none;
 } f
 
 .footer-images-menu {
-    list-style-type: none;
 }
 
 .footer-images-menu-title {
