@@ -177,7 +177,7 @@ text-decoration: none;
 } 
 
 .logo-web {
-    color: var(--navyblue);
+    color: var(--iris);
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
@@ -188,8 +188,12 @@ text-decoration: none;
     font-family: "Raleway", sans-serif;
 }
 
+.logo-web:hover {
+    color: #404bbf;
+}
+
 .logo-part {
-    color: var(--iris);
+    color: var(--navyblue);
 }
 
 .title-link {
