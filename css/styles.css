@@ -164,7 +164,8 @@ body {
 /*------------------------------footer html-------------------------------*/
 
 .footer-logotype {
-    color: var(--iris); 
+   /* color: var(--iris); */
+    color: var(--cloud);
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -175,7 +176,8 @@ body {
 }
 
 .footer-logotype-part {
-    color: var(--cloud);
+    /*color: var(--cloud);*/
+    color: var(--iris); 
 }
 
 .footer-down-desidn {
