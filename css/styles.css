@@ -101,6 +101,8 @@ body {
     letter-spacing: 0.02em;
 }
 
+/*------------------------------section 3-------------------------------*/
+
 .section-imeges-title {
     color: var(--navyblue);
     /* Header 2 */
@@ -111,6 +113,7 @@ body {
     line-height: 1.11; /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 
 .section-imeges-title-personnel {
