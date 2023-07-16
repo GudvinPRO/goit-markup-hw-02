@@ -312,27 +312,6 @@ body {
 .body-images-menu {
 }
 
-.body-images-menu-title {
-    color: var(--navyblue);
-    font-family: "Roboto", sans-serif;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2; 
-    letter-spacing: 0.2em;
-    text-align: center;
-}
-
-.body-images-menu-paragraph {
-    color: var(--slate);
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5; 
-    letter-spacing: 0.02em;
-} 
-
 .footer-images-section{
     background-color: #F4F4FD; 
 }
@@ -343,27 +322,6 @@ body {
 
 .footer-images-menu {
 }
-
-.footer-images-menu-title {
-    color: var(--navyblue);
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2; 
-    letter-spacing: 0.2em;
-}
-
-.footer-images-menu-paragraph {
-    color: var(--slate);
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5; 
-    letter-spacing: 0.02em;
-} 
 
 .footer-paragraph {
     color: var(--cloud);
