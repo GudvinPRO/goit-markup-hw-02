@@ -257,6 +257,7 @@ body {
 }
 
 .title-button-menu:hover, .title-button-menu:focus {
+    color: #FFFFFF;
     background-color: #404BBF;
 }
 
