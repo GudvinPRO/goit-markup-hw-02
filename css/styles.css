@@ -200,13 +200,17 @@ body {
     letter-spacing: 0.02em;
 }
 
-.title-list-link:hover {
+.title-list-link:hover, .title-list-link:focus {
     color: #404bbf;
 }
 
 .title-list-link {
     text-decoration: none;
     color: var(--navyblue);
+}
+
+.title-adress {
+    font-style: normal;
 }
 
 .title-adress-list {
@@ -222,6 +226,10 @@ body {
     line-height: 1.5; 
     letter-spacing: 0.02em;
     text-decoration: none;
+}
+
+.title-contacts:hover, .title-contacts:focus {
+    color: #404bbf;
 }
 
 /*------------------------------main-------------------------------*/
