@@ -257,14 +257,15 @@ body {
 }
 
 /*------------------------------main-------------------------------*/
-/*------------------------------section 1-------------------------------*/
-.title-button-list {
-    list-style: none;
-} 
+/*------------------------------section-------------------------------*/
 
 .title-button-section {
     text-align: center;
 }
+
+.title-button-list {
+    list-style: none;
+} 
 
 .title-button-menu {
     font-family: "Roboto", sans-serif;
