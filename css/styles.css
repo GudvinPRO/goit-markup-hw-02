@@ -163,7 +163,7 @@ body {
 
 /*------------------------------footer html-------------------------------*/
 
-.footer-logotype link {
+.footer-logotype {
     color: var(--iris);
     font-family: "Raleway", sans-serif;
     font-size: 18px;
