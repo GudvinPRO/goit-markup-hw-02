@@ -44,6 +44,8 @@ body {
     letter-spacing: 0.02px;
 }
 
+/*------------------------------section 1-------------------------------*/
+
 .main-board {
     background: var(--navyblue);
 }
@@ -75,6 +77,8 @@ body {
     background-color: #404BBF;
 } 
 
+/*------------------------------section 2-------------------------------*/
+
 .section-preview-text {
     color: var(--navyblue);
     /* Header 3 */
@@ -83,7 +87,7 @@ body {
     font-style: normal;
     font-weight: 500;
     line-height: 1.2; /* 120% */
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
 }
 
 .section-preview-paragraph {
