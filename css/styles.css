@@ -44,7 +44,7 @@ body {
     letter-spacing: 0.02px;
 }
 
-/*------------------------------section 1-------------------------------*/
+/*------------------------------ main section -------------------------------*/
 
 .main-board {
     background: var(--navyblue);
@@ -77,7 +77,7 @@ body {
     background-color: #404BBF;
 } 
 
-/*------------------------------section 2-------------------------------*/
+/*------------------------------section 1-------------------------------*/
 
 .section-preview-text {
     color: var(--navyblue);
@@ -101,20 +101,22 @@ body {
     letter-spacing: 0.02em;
 }
 
-/*------------------------------section 3-------------------------------*/
+/*------------------------------section 2-------------------------------*/
 
 .section-imeges-title {
     color: var(--navyblue);
     /* Header 2 */
     font-family: "Roboto", sans-serif;
     font-size: 36px;
+    text-align: center;
     font-style: normal;
     font-weight: 700;
     line-height: 1.11; /* 111.111% */
     letter-spacing: 0.02em;
-    text-transform: capitalize;
-    text-align: center;
+    text-transform: capitalize; 
 }
+
+/*------------------------------section 3-------------------------------*/
 
 .section-imeges-title-personnel {
     color: var(--navyblue);
@@ -126,6 +128,7 @@ body {
     line-height: 1.11; /* 111.111% */
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 
 .section-title-personnel-text {
