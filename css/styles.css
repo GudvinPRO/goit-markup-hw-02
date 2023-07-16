@@ -379,25 +379,3 @@ body {
     line-height: 1.5; 
     letter-spacing: 0.02em;
 }
-
-/*------------------------------footer-------------------------------*/
-
-.footer-design{
-    background: var(--navyblue);
-}
-
-.footer-logo {
-    color: var(--iris);
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: 1.17; /* 116.667% */
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    text-decoration-line: none;
-}
-
-.footer-logo-part {
-    color: var(--cloud);
-}
