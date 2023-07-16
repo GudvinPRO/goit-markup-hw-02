@@ -239,7 +239,7 @@ body {
 } 
 
 .title-button-section {
-    text-align: center; 
+    text-align: center;
 }
 
 .title-button-menu {
@@ -357,8 +357,11 @@ body {
 
 /*------------------------------footer-------------------------------*/
 
-.footer-design-section {
+.footer-design{
     background: var(--navyblue);
+}
+
+.footer-design-section {
 }
 
 .footer-logo {
@@ -367,7 +370,7 @@ body {
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
-    line-height: 1.16; /* 116.667% */
+    line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration-line: none;
