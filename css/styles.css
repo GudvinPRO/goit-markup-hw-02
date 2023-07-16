@@ -286,8 +286,6 @@ body {
     background-color: #404BBF;
 }
 
-/*------------------------------section 2-------------------------------*/
-
 .title-images-menu {
 }
 
@@ -303,15 +301,13 @@ body {
 
 .title-images-menu-paragraph {
     font-family: "Roboto", sans-serif;
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5; 
     letter-spacing: 0.02em;
+    color: #434455;
 }
-
-/*------------------------------section 3-------------------------------*/
 
 .body-images-menu {
 }
@@ -336,8 +332,6 @@ body {
     line-height: 1.5; 
     letter-spacing: 0.02em;
 } 
-
-/*------------------------------section 4-------------------------------*/
 
 .footer-images-section{
     background-color: #F4F4FD; 
