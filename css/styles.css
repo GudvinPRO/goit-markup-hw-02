@@ -77,7 +77,7 @@ body {
     background-color: #404BBF;
 } 
 
-/*------------------------------section 1-------------------------------*/
+/*------------------------------section 2-------------------------------*/
 
 .section-preview-text {
     color: var(--navyblue);
@@ -101,7 +101,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-/*------------------------------section 2-------------------------------*/
+/*------------------------------section 3-------------------------------*/
 
 .section-imeges-title {
     color: var(--navyblue);
@@ -116,7 +116,11 @@ body {
     text-transform: capitalize; 
 }
 
-/*------------------------------section 3-------------------------------*/
+/*------------------------------section 4-------------------------------*/
+
+.fourth-section {
+    background-color: #F4F4FD;
+}
 
 .section-imeges-title-personnel {
     color: var(--navyblue);
@@ -129,6 +133,10 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+}
+
+.fourth-section-list {
+    background-color: #FFFFFF;
 }
 
 .section-title-personnel-text {
